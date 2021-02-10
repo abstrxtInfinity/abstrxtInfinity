@@ -6,8 +6,8 @@ Feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-Anant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abstrxtinfinity/)](https://www.linkedin.com/in/abstrxtinfinity/)
 [![Gmail Badge](https://img.shields.io/badge/-anantverma2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anantverma2001@gmail.com)](mailto:anantverma2001@gmail.com)
 <p align="left">
-<a href="https://twitter.com/abstrxtinfinity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abstrxtinfinity" height="30" width="40" /></a>
-<a href="https://instagram.com/abstractinfinity0519" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abstractinfinity0519" height="30" width="40" /></a>
+<a href="https://twitter.com/abstrxtinfinity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abstrxtinfinity" height="30" width="30" /></a>
+<a href="https://instagram.com/abstractinfinity0519" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abstractinfinity0519" height="30" width="30" /></a>
 </p>
 
 ## Languages and Tools:
