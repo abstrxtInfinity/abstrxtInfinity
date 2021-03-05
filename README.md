@@ -1,6 +1,9 @@
 ### Allow Me to Introduce Myself..  (☞ﾟヮﾟ)☞
 
-## Anant Verma || Sophomore || CSE Major || NITH <br> <br>
+## Anant Verma || Sophomore || CSE Major || NITH <br>
+<p align="center"> <a href="http://anshit01.github.io/"><img src="https://github-profile-trophy.vercel.app/?username=anshit01&theme=onedark" alt="anshit01" /></a> </p>
+<br>
+
 Feel free to connect with me here:
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Anant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abstrxtinfinity/)](https://www.linkedin.com/in/abstrxtinfinity/)
