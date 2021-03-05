@@ -1,13 +1,13 @@
 ### Allow Me to Introduce Myself..  (☞ﾟヮﾟ)☞
 
 ## Anant Verma || Sophomore || CSE Major || NITH <br>
-<p align="center"> <a href="http://anshit01.github.io/"><img src="https://github-profile-trophy.vercel.app/?username=anshit01&theme=onedark" alt="anshit01" /></a> </p>
+<p align="center"> <a href="https://github.com/abstrxtInfinity/abstrxtInfinity"><img src="https://github-profile-trophy.vercel.app/?username=abstrxtinfinity&theme=onedark" alt="abstrxtinfinity" /></a> </p>
 <br>
 
 Feel free to connect with me here:
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Anant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abstrxtinfinity/)](https://www.linkedin.com/in/abstrxtinfinity/)
-[![Gmail Badge](https://img.shields.io/badge/-anantverma2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anantverma2001@gmail.com)](mailto:anantverma2001@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-anantverma2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailasbto:anantverma2001@gmail.com)](mailto:anantverma2001@gmail.com)
 <p align="left">
 <a href="https://twitter.com/abstrxtinfinity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abstrxtinfinity" height="30" width="30" /></a>
 <a href="https://instagram.com/abstractinfinity0519" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abstractinfinity0519" height="30" width="30" /></a>
