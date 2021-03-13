@@ -1,6 +1,10 @@
+
+![](https://komarev.com/ghpvc/?username=asbtrxtInfinity&color=blueviolet&style=flat-square&label=Viewers)
+<br>
 ### Allow Me to Introduce Myself..  (☞ﾟヮﾟ)☞
 
-## Anant Verma || Sophomore || CSE Major || NITH <br>
+## Anant Verma || Sophomore || CSE Major || NITH
+<br>
 
 Feel free to connect with me here:
 <br>
