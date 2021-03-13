@@ -1,17 +1,17 @@
 ### Allow Me to Introduce Myself..  (☞ﾟヮﾟ)☞
 
 ## Anant Verma || Sophomore || CSE Major || NITH <br>
-<p align="center"> <a href="https://github.com/abstrxtInfinity/abstrxtInfinity"><img src="https://github-profile-trophy.vercel.app/?username=abstrxtinfinity&theme=onedark" alt="abstrxtinfinity" /></a> </p>
-<br>
 
 Feel free to connect with me here:
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Anant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abstrxtinfinity/)](https://www.linkedin.com/in/abstrxtinfinity/)
 [![Gmail Badge](https://img.shields.io/badge/-anantverma2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailasbto:anantverma2001@gmail.com)](mailto:anantverma2001@gmail.com)
+
 <p align="left">
 <a href="https://twitter.com/abstrxtinfinity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abstrxtinfinity" height="30" width="30" /></a>
 <a href="https://instagram.com/abstractinfinity0519" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abstractinfinity0519" height="30" width="30" /></a>
 </p>
+
 
 ## Languages and Tools:
 
@@ -45,10 +45,11 @@ Feel free to connect with me here:
   <a href="https://firebase.google.com/" target="_blank"> <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abstrxtinfinity&hide=TeX&layout=compact&theme=midnight-purple&&hide_border=false&&count_private=true)
 
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=abstrxtinfinity&count_private=true&show_icons=true&&theme=react&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abstrxtinfinity&hide=TeX&layout=compact&theme=react)
+|<img src="https://github-readme-stats.vercel.app/api?username=abstrxtinfinity&&show_icons=true&&hide_border=false&&theme=midnight-purple&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=abstrxtinfinity&&theme=midnight-purple&&hide_border=false&&show_icons=true"/>|
+|---|---|
 
 ### ☜(ﾟヮﾟ☜) ..Until next time!
