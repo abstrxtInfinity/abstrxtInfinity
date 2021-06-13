@@ -9,7 +9,7 @@
 <p align="center"> 
  <a  href="https://www.linkedin.com/in/abstrxtinfinity/" target="blank"><img align="center" src="https://img.shields.io/badge/-Anant-21567E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abstrxtinfinity/" alt="abstrxtinfinity" /></a>
  <a href="mailto:anantverma2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-anantverma2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailasbto:anantverma2001@gmail.com" alt="abstrxtinfinity"  /></a>
-<a href="https://twitter.com/abstrxtinfinity" target="blank"><img align="center" src="https://img.shields.io/badge/-abstrxtinfinity-009DEC?style=flat-square&logo=Twitter&logoColor=white" alt="abstrxtinfinity"  /></a>
+<!-- <a href="https://twitter.com/abstrxtinfinity" target="blank"><img align="center" src="https://img.shields.io/badge/-abstrxtinfinity-009DEC?style=flat-square&logo=Twitter&logoColor=white" alt="abstrxtinfinity"  /></a> -->
 <a href="https://instagram.com/abstractinfinity0519" target="blank"><img align="center" src="https://img.shields.io/badge/-abstractinfinity0519-DE3859?style=flat-square&logo=Instagram&logoColor=white&link" alt="abstractinfinity0519"  /></a>
 </p>
 
