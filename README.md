@@ -3,7 +3,7 @@
 <br>
 ### Allow Me to Introduce Myself.. <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50"> (☞ﾟヮﾟ)☞
 
-<h2 align="center"> Anant Verma || Sophomore || CSE Major || NITH </h2>
+<h2 align="center"> Anant Verma || Third Year || CSE Major || NITH </h2>
 
  <h3  align="center" >  Feel free to connect with me here: </h3>
 <p align="center"> 
