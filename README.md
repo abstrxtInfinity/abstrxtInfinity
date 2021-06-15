@@ -3,7 +3,7 @@
 <br>
 ### Allow Me to Introduce Myself.. <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50"> (☞ﾟヮﾟ)☞
 
-<h2 align="center"> Anant Verma || Third Year || CSE Major || NITH </h2>
+<h2 align="center"> Anant Verma || Third Year || CSE Major || NIT Hamirpur </h2>
 
  <h3  align="center" >  Feel free to connect with me here: </h3>
 <p align="center"> 
@@ -13,11 +13,12 @@
 <a href="https://instagram.com/abstractinfinity0519" target="blank"><img align="center" src="https://img.shields.io/badge/-abstractinfinity0519-DE3859?style=flat-square&logo=Instagram&logoColor=white&link" alt="abstractinfinity0519"  /></a>
 </p>
 
+<br>
 
 <h2 align="center">  Languages and Tools: </h2>
 
 
-<p align="center">
+<!-- <p align="center">
 <code><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30"
       height="30" /></code>
@@ -45,7 +46,64 @@
       alt="dart" width="30" height="30" /></code>
 <code><img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30" /></code>
-</p>
+</p> -->
+
+<p align = "center">
+                <img
+                  src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&amp;logo=c%2B%2B&logoColor=white"
+                  alt="C++"
+                />
+                <img
+                  src="https://img.shields.io/badge/C-black?style=for-the-badge&amp;logo=c"
+                  alt="C"
+                />
+                <img
+                  src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&amp;logo=html5&amp;logoColor=orange"
+                  alt="HTML5"
+                />
+                <img
+                  src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&amp;logo=css3&logoColor=blue"
+                  alt="CSS3"
+                />
+                <img
+                  src="https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&amp;logo=bootstrap"
+                  alt="Bootstrap"
+                />
+                <img
+                  src="https://img.shields.io/badge/Sass-black?style=for-the-badge&amp;&logo=sass&logoColor=pink"
+                  alt="Sass"
+                />
+                <img
+                  src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&amp;logo=javascript"
+                  alt="JavaScript"
+                />
+                <img
+                  src="https://img.shields.io/badge/-Flutter-black?style=for-the-badge&amp;logo=Flutter&amp;logoColor=blue"
+                  alt="Flutter"
+                />
+                <img
+                  src="https://img.shields.io/badge/Dart-black?style=for-the-badge&amp;&logo=dart&logoColor=blue"
+                  alt="Dart"
+                />
+                <img
+                  src="https://img.shields.io/badge/firebase-black?style=for-the-badge&amp;&logo=firebase&logoColor=yellow"
+                  alt="Firebase"
+                />
+                <img
+                  src="https://img.shields.io/badge/figma-black?style=for-the-badge&amp;&logo=figma&logoColor=yellow"
+                  alt="Figma"
+                />
+                <img
+                  src="https://img.shields.io/badge/-Git-black?style=for-the-badge&amp;logo=git"
+                  alt="Git"
+                />
+                <img
+                  src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&amp;logo=github"
+                  alt="GitHub"
+                />
+              </p>
+
+<br>
 
 <h2 align="center">  Stats: </h2>
 
