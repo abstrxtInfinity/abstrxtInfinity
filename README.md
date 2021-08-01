@@ -86,6 +86,14 @@
                   alt="Dart"
                 />
                 <img
+                  src="https://img.shields.io/badge/React-black?style=for-the-badge&amp;&logo=react"
+                  alt="React"
+                />
+                <img
+                  src="https://img.shields.io/badge/-Python-black?style=for-the-badge&amp;logo=python"
+                  alt="Python"
+                />
+                <img
                   src="https://img.shields.io/badge/firebase-black?style=for-the-badge&amp;&logo=firebase&logoColor=yellow"
                   alt="Firebase"
                 />
@@ -100,7 +108,7 @@
                 <img
                   src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&amp;logo=github"
                   alt="GitHub"
-                />
+                />                
               </p>
 
 <br>
