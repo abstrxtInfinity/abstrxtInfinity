@@ -3,6 +3,8 @@
 <br>
 ### Allow Me to Introduce Myself.. <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50"> (☞ﾟヮﾟ)☞
 
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <h2 align="center"> Anant Verma || Third Year || CSE Major || NIT Hamirpur </h2>
 
  <h3  align="center" >  Feel free to connect with me here: </h3>
@@ -115,6 +117,7 @@
 
 <h2 align="center">  Stats: </h2>
 
+
 <p align="center">
  
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abstrxtinfinity&hide=TeX&layout=compact&theme=midnight-purple&&hide_border=false&&count_private=true"/>
@@ -126,5 +129,7 @@
 |---|---|
 
 [![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=abstrxtinfInity&bg_color=000000&color=FFFFFF&line=9645F4&point=F1E05A)](https://github.com/abstrxtInfinity/github-readme-activity-graph)
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### ☜(ﾟヮﾟ☜) ..Until next time!
