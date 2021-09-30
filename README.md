@@ -4,20 +4,20 @@
 ### Allow Me to Introduce Myself.. <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50"> (☞ﾟヮﾟ)☞
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+<!-- 
 <h2 align="center"> Anant Verma || Third Year || CSE Major || NIT Hamirpur </h2>
-
- <h3  align="center" >  Feel free to connect with me here: </h3>
-<p align="center"> 
- <a  href="https://www.linkedin.com/in/abstrxtinfinity/" target="blank"><img align="center" src="https://img.shields.io/badge/-Anant-21567E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abstrxtinfinity/" alt="abstrxtinfinity" /></a>
- <a href="mailto:anantverma2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-anantverma2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailasbto:anantverma2001@gmail.com" alt="abstrxtinfinity"  /></a>
+ -->
+ ![Alt text of image](<Github_Banner.png>)
+ 
+ <a  href="https://www.linkedin.com/in/abstrxtinfinity/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abstrxtinfinity/" alt="abstrxtinfinity" />&nbsp;&nbsp;</a>
+ <a href="mailto:anantverma2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-anantverma2001@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailasbto:anantverma2001@gmail.com" alt="abstrxtinfinity"  />&nbsp;&nbsp;</a>
+<a href="https://instagram.com/abstractinfinity0519" target="blank"><img align="center" src="https://img.shields.io/badge/-abstractinfinity0519-DE3859?style=for-the-badge&logo=Instagram&logoColor=white&link" alt="abstractinfinity0519"  />&nbsp;&nbsp;</a>
 <!-- <a href="https://twitter.com/abstrxtinfinity" target="blank"><img align="center" src="https://img.shields.io/badge/-abstrxtinfinity-009DEC?style=flat-square&logo=Twitter&logoColor=white" alt="abstrxtinfinity"  /></a> -->
-<a href="https://instagram.com/abstractinfinity0519" target="blank"><img align="center" src="https://img.shields.io/badge/-abstractinfinity0519-DE3859?style=flat-square&logo=Instagram&logoColor=white&link" alt="abstractinfinity0519"  /></a>
-</p>
+
 
 <br>
 
-<h2 align="center">  Languages and Tools: </h2>
+<h2 align="left">  Languages and Tools: </h2>
 
 
 <!-- <p align="center">
@@ -50,7 +50,7 @@
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30" /></code>
 </p> -->
 
-<p align = "center">
+<p align = "left">
                 <img
                   src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&amp;logo=c%2B%2B&logoColor=white"
                   alt="C++"
@@ -115,10 +115,10 @@
 
 <br>
 
-<h2 align="center">  Stats: </h2>
+<h2 align="left">  Stats: </h2>
 
 
-<p align="center">
+<p align="left">
  
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abstrxtinfinity&hide=TeX&layout=compact&theme=midnight-purple&&hide_border=false&&count_private=true"/>
 
