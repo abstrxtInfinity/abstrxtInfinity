@@ -11,7 +11,8 @@
  
  <a  href="https://www.linkedin.com/in/abstrxtinfinity/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abstrxtinfinity/" alt="abstrxtinfinity" />&nbsp;&nbsp;</a>
  <a href="mailto:anantverma2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-anantverma2001@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailasbto:anantverma2001@gmail.com" alt="abstrxtinfinity"  />&nbsp;&nbsp;</a>
-<a href="https://www.instagram.com/abstract_infinity01/" target="blank"><img align="center" src="https://img.shields.io/badge/-abstract_infinity01-DE3859?style=for-the-badge&logo=Instagram&logoColor=white&link" alt="abstract_infinity01"  />&nbsp;&nbsp;</a>
+<a href="https://www.instagram.com/yet.another.engineer/" target="blank"><img align="center" src="https://img.shields.io/badge/-yet.another.engineer-DE3859?style=for-the-badge&logo=Instagram&logoColor=white&link" alt="yet.another.engineer"  />&nbsp;&nbsp;</a>
+<a href="https://dribbble.com/abstrxtInfinity" target="blank"><img align="center" src="https://img.shields.io/badge/-abstrxtinfinity-DE3859?style=for-the-badge&logo=Dribble&logoColor=white&link" alt="yet.another.engineer"  />&nbsp;&nbsp;</a>
 <!-- <a href="https://twitter.com/abstrxtinfinity" target="blank"><img align="center" src="https://img.shields.io/badge/-abstrxtinfinity-009DEC?style=flat-square&logo=Twitter&logoColor=white" alt="abstrxtinfinity"  /></a> -->
 
 
