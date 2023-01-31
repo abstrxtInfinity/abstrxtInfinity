@@ -129,7 +129,7 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=abstrxtinfinity&&show_icons=true&&hide_border=false&&theme=midnight-purple&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=abstrxtinfinity&&theme=midnight-purple&&hide_border=false&&show_icons=true"/>|
 |---|---|
 
-[![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=abstrxtinfInity&bg_color=000000&color=FFFFFF&line=9645F4&point=F1E05A)](https://github.com/abstrxtInfinity/github-readme-activity-graph)
+[![My Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abstrxtinfInity&bg_color=000000&color=FFFFFF&line=9645F4&point=F1E05A)](https://github.com/abstrxtInfinity/github-readme-activity-graph)
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
