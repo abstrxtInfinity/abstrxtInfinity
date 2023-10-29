@@ -7,7 +7,7 @@
 <!-- 
 <h2 align="center"> Anant Verma || Third Year || CSE Major || NIT Hamirpur </h2>
  -->
- ![Alt text of image](<banner.png>)
+
  
  <a  href="https://www.linkedin.com/in/abstrxtinfinity/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abstrxtinfinity/" alt="abstrxtinfinity" />&nbsp;&nbsp;</a>
  <a href="mailto:anantverma2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-anantverma2001@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailasbto:anantverma2001@gmail.com" alt="abstrxtinfinity"  />&nbsp;&nbsp;</a>
