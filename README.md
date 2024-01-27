@@ -3,11 +3,12 @@
 <br>
 ### Allow Me to Introduce Myself.. <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50"> (☞ﾟヮﾟ)☞
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!-- 
 <h2 align="center"> Anant Verma || Third Year || CSE Major || NIT Hamirpur </h2>
  -->
  ![Alt text of image](<naya_banner.png>)
+ 
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
  <a  href="https://www.linkedin.com/in/abstrxtinfinity/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abstrxtinfinity/" alt="abstrxtinfinity" />&nbsp;&nbsp;</a>
  <a href="mailto:anantverma2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-anantverma2001@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailasbto:anantverma2001@gmail.com" alt="abstrxtinfinity"  />&nbsp;&nbsp;</a>
