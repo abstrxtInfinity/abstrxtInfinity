@@ -98,6 +98,30 @@
                   alt="Python"
                 />
                 <img
+                  src="https://img.shields.io/badge/-Bash-black?style=for-the-badge&amp;logo=bash"
+                  alt="Bash"
+                />
+                <img
+                  src="https://img.shields.io/badge/-Jenkins-black?style=for-the-badge&amp;logo=jenkins"
+                  alt="Jenkins"
+                />
+                <img
+                  src="https://img.shields.io/badge/-Angular-black?style=for-the-badge&amp;logo=angular"
+                  alt="Angular"
+                />
+                <img
+                  src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&amp;logo=flask"
+                  alt="Flask"
+                />
+                <img
+                  src="https://img.shields.io/badge/-Jira-black?style=for-the-badge&amp;logo=jira"
+                  alt="Jira"
+                />
+                <img
+                  src="https://img.shields.io/badge/-Groovy-black?style=for-the-badge&amp;logo=groovy"
+                  alt="Groovy"
+                />
+                <img
                   src="https://img.shields.io/badge/firebase-black?style=for-the-badge&amp;&logo=firebase&logoColor=yellow"
                   alt="Firebase"
                 />
